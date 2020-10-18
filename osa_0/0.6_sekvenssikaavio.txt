@@ -1,0 +1,8 @@
+note over selain:
+Pyynnön hoitaa JavaScript koodi
+end note
+selain->palvelin: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+note over palvelin:
+Palvelin saa JSON-muodossa uuden muistiinpanon joka tallennetaan
+end note
+palvelin->selain: \"note created"
