@@ -1,5 +1,7 @@
 # Osa 0 palautus
 
+Alla vastaukset osan 0 tehtäviin. Tehtävissä 0.1-0.3 pyydettiin lukemaan annetut tutoriaalit, joten niistä ei varsinaista palautusta.
+
 ## 0.4 uusi muistiinpano
 
 Sekvenssikaavio tilanteesta, jossa esimerkkisivulle lisätään uusi muistiinpano:
